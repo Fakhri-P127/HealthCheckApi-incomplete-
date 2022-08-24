@@ -1,0 +1,14 @@
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\bin\Debug\net6.0\HealthCheck.Entities.deps.json
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\bin\Debug\net6.0\HealthCheck.Entities.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\bin\Debug\net6.0\HealthCheck.Entities.pdb
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.csproj.AssemblyReference.cache
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.AssemblyInfoInputs.cache
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.AssemblyInfo.cs
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.csproj.CoreCompileInputs.cache
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\refint\HealthCheck.Entities.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.pdb
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\ref\HealthCheck.Entities.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\bin\Debug\net6.0\HealthCheck.Entities.runtimeconfig.json
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Entities\HealthCheck.Entities\obj\Debug\net6.0\HealthCheck.Entities.genruntimeconfig.cache

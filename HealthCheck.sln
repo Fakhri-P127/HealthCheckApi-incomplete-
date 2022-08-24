@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F79744FE-06EA-4D6B-8420-425832265816}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{1FA5FA2A-4DF0-4CD1-A84F-FF2BE22AAD72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.WebApi", "src\WebApi\HealthCheck.WebApi\HealthCheck.WebApi.csproj", "{2DA1B7DF-9B92-4987-A893-4BCBAFD416FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataService", "DataService", "{53EBA506-B91A-4860-9967-EB289C829FA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.DataService", "src\DataService\HealthCheck.DataService\HealthCheck.DataService.csproj", "{AC8653DC-CBC8-4763-95EE-67BF4ABFA1AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{9CAB7029-571A-4104-9797-349BE80F6BE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.Entities", "src\Entities\HealthCheck.Entities\HealthCheck.Entities.csproj", "{68AB0BF6-64ED-4E68-B2B5-062D120B56C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{0431CDA9-CF5E-4057-B167-255DAB11A8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck.Authentication", "src\Authentication\HealthCheck.Authentication\HealthCheck.Authentication.csproj", "{F328E497-3E46-422B-91DD-1A443F01B88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA1B7DF-9B92-4987-A893-4BCBAFD416FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA1B7DF-9B92-4987-A893-4BCBAFD416FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA1B7DF-9B92-4987-A893-4BCBAFD416FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA1B7DF-9B92-4987-A893-4BCBAFD416FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8653DC-CBC8-4763-95EE-67BF4ABFA1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8653DC-CBC8-4763-95EE-67BF4ABFA1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8653DC-CBC8-4763-95EE-67BF4ABFA1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8653DC-CBC8-4763-95EE-67BF4ABFA1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AB0BF6-64ED-4E68-B2B5-062D120B56C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AB0BF6-64ED-4E68-B2B5-062D120B56C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AB0BF6-64ED-4E68-B2B5-062D120B56C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AB0BF6-64ED-4E68-B2B5-062D120B56C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F328E497-3E46-422B-91DD-1A443F01B88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F328E497-3E46-422B-91DD-1A443F01B88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F328E497-3E46-422B-91DD-1A443F01B88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F328E497-3E46-422B-91DD-1A443F01B88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FA5FA2A-4DF0-4CD1-A84F-FF2BE22AAD72} = {F79744FE-06EA-4D6B-8420-425832265816}
+		{2DA1B7DF-9B92-4987-A893-4BCBAFD416FA} = {1FA5FA2A-4DF0-4CD1-A84F-FF2BE22AAD72}
+		{53EBA506-B91A-4860-9967-EB289C829FA7} = {F79744FE-06EA-4D6B-8420-425832265816}
+		{AC8653DC-CBC8-4763-95EE-67BF4ABFA1AE} = {53EBA506-B91A-4860-9967-EB289C829FA7}
+		{9CAB7029-571A-4104-9797-349BE80F6BE4} = {F79744FE-06EA-4D6B-8420-425832265816}
+		{68AB0BF6-64ED-4E68-B2B5-062D120B56C5} = {9CAB7029-571A-4104-9797-349BE80F6BE4}
+		{0431CDA9-CF5E-4057-B167-255DAB11A8D3} = {F79744FE-06EA-4D6B-8420-425832265816}
+		{F328E497-3E46-422B-91DD-1A443F01B88A} = {0431CDA9-CF5E-4057-B167-255DAB11A8D3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213122D8-92C1-4D09-BED5-6D93ACF841F3}
+	EndGlobalSection
+EndGlobal

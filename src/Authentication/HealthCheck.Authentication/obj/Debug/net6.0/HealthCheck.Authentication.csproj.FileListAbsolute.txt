@@ -1,0 +1,14 @@
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\bin\Debug\net6.0\HealthCheck.Authentication.deps.json
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\bin\Debug\net6.0\HealthCheck.Authentication.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\bin\Debug\net6.0\HealthCheck.Authentication.pdb
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.csproj.AssemblyReference.cache
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.AssemblyInfoInputs.cache
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.AssemblyInfo.cs
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\refint\HealthCheck.Authentication.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.pdb
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\ref\HealthCheck.Authentication.dll
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\bin\Debug\net6.0\HealthCheck.Authentication.runtimeconfig.json
+C:\Users\efend\source\repos\Backend\HealthCheck\src\Authentication\HealthCheck.Authentication\obj\Debug\net6.0\HealthCheck.Authentication.genruntimeconfig.cache
